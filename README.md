@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Cosadiz69! 
+# 👋 Halo, Saya zelebez6969! 
 
 [![Python](https://img.shields.io/badge/Python-70%25-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![GitHub](https://img.shields.io/badge/Level-Pemula-yellow)](https://github.com/cosadiz69)
